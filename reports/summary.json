@@ -1,0 +1,43 @@
+{
+  "2016": {
+    "ufs_above_brazil": 8,
+    "ufs_below_brazil": 19,
+    "top_uf": {
+      "name": "Distrito Federal",
+      "value": 52.52
+    },
+    "bottom_uf": {
+      "name": "Maranhão",
+      "value": 8.14
+    },
+    "cv_pct": 54.53
+  },
+  "rows": 112,
+  "territorialities": 28,
+  "ufs": 27,
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "missing_values": 0,
+  "duplicate_territory_year_pairs": 0,
+  "brazil": {
+    "2013": 22.2,
+    "2016": 20.19,
+    "pct_change_2013_2016": -9.05
+  },
+  "period_change": {
+    "ufs_positive": 5,
+    "ufs_negative": 22,
+    "largest_increase": {
+      "name": "Mato Grosso",
+      "pct_change": 6.01
+    },
+    "largest_decrease": {
+      "name": "Espírito Santo",
+      "pct_change": -28.6
+    }
+  }
+}
